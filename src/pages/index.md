@@ -14,5 +14,5 @@ note: Original by Some Author
 ```compare
 left: http://placekitten.com/600/800
 right: http://placekitten.com/600/800
-note: Original by Some Author
+note: Original by [Some Author](https://google.com)
 ```
