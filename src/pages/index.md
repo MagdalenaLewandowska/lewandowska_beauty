@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Główna
+menu: 0
 ---
 
 Hello, here are some examples:

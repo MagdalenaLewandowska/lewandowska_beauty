@@ -4,9 +4,17 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Lewandowska Beauty - {{pageTitle}}</title>
+    <link rel="stylesheet" href="/styles/main.css" />
   </head>
   <body>
-    <h1>LEWANDOWSKA BEAUTY</h1>
+    <a href="/"
+      ><img src="/images/logo.png" alt="Lewandowska Beauty" class="logo"
+    /></a>
+    <nav>
+      <ul>
+        {{links}}
+      </ul>
+    </nav>
     {{content}}
   </body>
 </html>

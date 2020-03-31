@@ -63,19 +63,43 @@ const insertSpecialComponents = markdown => {
   return output.join("\n")
 }
 
-const render = async fullName => {
-  const [fileName] = fullName.split(".")
-  const outputFolder = fileName === "index" ? "public" : `public/${fileName}`
-  const page = fs.readFileSync(`src/pages/${fullName}`).toString()
-  const lines = page.split("\n")
+const getPages = () => {
+  return fs.readdirSync("src/pages").map(fullName => {
+    const [fileName] = fullName.split(".")
+    const outputFolder = fileName === "index" ? "public" : `public/${fileName}`
+    const page = fs.readFileSync(`src/pages/${fullName}`).toString()
+    const lines = page.split("\n")
 
-  const options = Object.fromEntries(
-    lines.slice(1, 3).map(option => option.split(":").map(x => x.trim()))
-  )
-  const body = lines.slice(4).join("\n")
+    const options = Object.fromEntries(
+      lines.slice(1, 4).map(option => option.split(":").map(x => x.trim()))
+    )
+    const body = lines.slice(5).join("\n")
 
+    return { options, body, outputFolder, fileName }
+  })
+}
+
+const getLinksData = pages => {
+  return pages
+    .filter(page => Number(page.options.menu) !== 0)
+    .sort((a, b) => a.options.menu - b.options.menu)
+    .map(page => ({ link: page.fileName, title: page.options.title }))
+}
+
+const renderLinks = linksData => {
+  const linksTemplate = fs
+    .readFileSync("src/templates/components/menu-link.html")
+    .toString()
+
+  return linksData
+    .map(({ link, title }) =>
+      linksTemplate.replace("{{link}}", `/${link}`).replace("{{title}}", title)
+    )
+    .join("\n")
+}
+
+const render = async ({ options, body, outputFolder }, links) => {
   const withSpecialComponents = insertSpecialComponents(body)
-  console.log(withSpecialComponents)
   const content = await markdownToHTML(withSpecialComponents)
 
   const rendered = fs
@@ -83,16 +107,18 @@ const render = async fullName => {
     .toString()
     .replace("{{pageTitle}}", options.title)
     .replace("{{content}}", content)
+    .replace("{{links}}", links)
 
   fs.ensureDirSync(outputFolder)
   fs.writeFileSync(`${outputFolder}/index.html`, rendered)
 }
 
 const main = async () => {
-  const pages = fs.readdirSync("src/pages")
+  const pages = getPages()
+  const links = renderLinks(getLinksData(pages))
 
   for (const page of pages) {
-    await render(page)
+    await render(page, links)
   }
 }
 
