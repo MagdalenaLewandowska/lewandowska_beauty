@@ -7,13 +7,13 @@ menu: 0
 Hello, here are some examples:
 
 ```compare
-left: http://placekitten.com/600/800
-right: http://placekitten.com/600/800
-note: Original by Some Author
+left: /images/eyebrow/before.jpeg
+right: /images/eyebrow/after.png
+note: Oryginał: Jan Kowalski PHOTO STUDIO
 ```
 
 ```compare
-left: http://placekitten.com/600/800
-right: http://placekitten.com/600/800
-note: Original by [Some Author](https://google.com)
+left: /images/eyebrow/before.jpeg
+right: /images/eyebrow/after.png
+note: Oryginał: Jan Kowalski PHOTO STUDIO
 ```
