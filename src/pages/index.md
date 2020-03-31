@@ -6,14 +6,14 @@ menu: 0
 
 Hello, here are some examples:
 
-```compare
++++compare
 left: /images/eyebrow/before.jpeg
 right: /images/eyebrow/after.png
 note: Oryginał: Jan Kowalski PHOTO STUDIO
-```
++++
 
-```compare
++++compare
 left: /images/eyebrow/before.jpeg
 right: /images/eyebrow/after.png
 note: Oryginał: Jan Kowalski PHOTO STUDIO
-```
++++

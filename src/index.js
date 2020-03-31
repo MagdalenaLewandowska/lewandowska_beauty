@@ -39,11 +39,11 @@ const insertSpecialComponents = markdown => {
 
   for (const line of lines) {
     const trimmed = line.trim()
-    if (trimmed.match(/^```[a-z]+$/i)) {
+    if (trimmed.match(/^\+\+\+[a-z]+$/i)) {
       componentData = {}
       componentData.name = trimmed.slice(3).toLowerCase()
       componentData.props = {}
-    } else if (trimmed.match(/^```$/i)) {
+    } else if (trimmed.match(/^\+\+\+$/i)) {
       const transformed = specialTags[componentData.name](componentData.props)
 
       output.push(transformed)
