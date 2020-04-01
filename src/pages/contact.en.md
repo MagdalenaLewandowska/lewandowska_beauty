@@ -6,8 +6,14 @@ menu: 4
 
 # Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi volutpat, urna sit amet posuere mattis, lacus erat suscipit velit, et egestas justo lacus eget dui. Proin condimentum vestibulum orci, sit amet eleifend lorem consequat non.x
+Send your photos: lewandowskabeauty@gmail.com
 
-Curabitur tempus a lacus sed iaculis. Nunc faucibus iaculis turpis. Aenean at consequat odio. Donec ante odio, mollis nec risus sit amet, porta mollis sem. Sed facilisis scelerisque odio, id bibendum metus sagittis eget.
+Beauty salon adress:
+Ochman Magia Urody,
+Piłsudskiego 2 Street,
+05 - 600 Grójec,
+POLAND
 
-Etiam ut orci metus. Ut non purus tellus. Aliquam nec sem et quam malesuada semper id ac mauris. Sed tincidunt urna et sapien malesuada tempus.
+Registration for eyebrow styling in the salon:
++048 502 114 724
+
