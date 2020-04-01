@@ -4,7 +4,7 @@ title: O mnie
 menu: 1
 ---
 
-# O mnie
+# IDEA
 
 Witam na stronie wizualizacji brwi!
 
