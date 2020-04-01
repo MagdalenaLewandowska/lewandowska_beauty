@@ -4,7 +4,6 @@ title: O stronie
 menu: 1
 ---
 
-# O stronie
 
 Witam na stronie wizualizacji brwi!
 
