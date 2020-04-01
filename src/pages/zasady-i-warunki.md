@@ -4,10 +4,18 @@ title: Zasady i warunki
 menu: 2
 ---
 
-# Zasady i warunki
+# Zgoda i warunki wykorzystania wizerunku
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi volutpat, urna sit amet posuere mattis, lacus erat suscipit velit, et egestas justo lacus eget dui. Proin condimentum vestibulum orci, sit amet eleifend lorem consequat non.x
+Przekazując materiały w formie obrazów/ zdjęć automatycznie zgadzasz się na
+ich wykorzystanie, modyfikowanie, utrwalanie, powielanie, archiwizację, publiczne udostępnianie za pośrednictwem internetowych mediów społecznościowych:  
+Instagram (https://www.instagram.com)
+Twitter (https://www.twitter.com)
+Facebook  (https://www.facebook.com)
+Jak również: tworzenie, przechowywanie i użytkowanie ich kopii zapasowych. 
+Zgoda zostaje wyrażona bezterminowo, nieodpłatnie i bez ograniczeń podmiotowych i przedmiotowych.
+Nie ma ograniczenia czasowego ani geograficznego dotyczącego publikacji przesłanych materiałów.
+Na przesłanym przez Ciebie matraiałach jest Twój wizerunek.
 
-Curabitur tempus a lacus sed iaculis. Nunc faucibus iaculis turpis. Aenean at consequat odio. Donec ante odio, mollis nec risus sit amet, porta mollis sem. Sed facilisis scelerisque odio, id bibendum metus sagittis eget.
-
-Etiam ut orci metus. Ut non purus tellus. Aliquam nec sem et quam malesuada semper id ac mauris. Sed tincidunt urna et sapien malesuada tempus.
+Niniejszym potwierdzasz, że masz ukończone 18 lat, przeczytałeś powyższe warunki i w pełni rozumiesz ich treść oraz zwalniasz z wszelkich roszczeń firmę Magdalena Lewandowska Beauty Grudzkowola 41 05-600 Grójec, wykorzystującą przesłane przeze ciebie materiały. 
+Przesłanie materiałów nastąpiło po przeczytaniu i akceptacji warunków.
+Niniejsza zgoda jest wiążąca dla ciebie i twoich przedstawicieli prawnych. 
