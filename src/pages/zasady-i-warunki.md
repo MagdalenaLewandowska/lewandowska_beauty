@@ -4,7 +4,7 @@ title: Zasady i warunki
 menu: 2
 ---
 
-# Zgoda i warunki wykorzystania wizerunku
+# Zgoda i warunki 
 
 Przesyłając swoje zgłoszenie w formie zdjęć za pośrednictwem poczty e-mail (lewandowskabeauty@gmail.com) oraz wiadomości prywatnych na internetowych mediach społecznościowych należących do Lewandowska Beauty (https://lewandowskabeauty.com/) tj. Instagram, Twitter, Facebook, Tik tok, Tumblr i Youtube automatycznie akceptujesz warunki określone poniżej.
 
