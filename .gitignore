@@ -4,3 +4,4 @@ node_modules
 public/*
 !public/images
 !public/styles
+!public/scripts
