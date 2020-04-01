@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Lewandowska Beauty - {{pageTitle}}</title>
     <link rel="stylesheet" href="/styles/main.css" />
+    <link rel="stylesheet" href="/styles/beerslider.css" />
   </head>
   <body>
     <div class="header">
@@ -77,10 +78,11 @@
         </ul>
       </nav>
     </div>
-    <div class="content">
+    <div class="content home">
       {{content}}
     </div>
     <footer class="footer">
+      <hr />
       <ul class="social">
         <li class="social__item">
           <a class="social__link" href="https://vm.tiktok.com/GsLjBa"
@@ -143,5 +145,11 @@
         2020 © Magdalena Lewandowska BEAUTY
       </p>
     </footer>
+    <script src="/scripts/beerslider.js"></script>
+    <script>
+      ;[...document.getElementsByClassName("beer-slider")].forEach(element => {
+        new BeerSlider(element)
+      })
+    </script>
   </body>
 </html>

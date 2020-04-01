@@ -12,4 +12,4 @@ Curabitur tempus a lacus sed iaculis. Nunc faucibus iaculis turpis. Aenean at co
 
 Etiam ut orci metus. Ut non purus tellus. Aliquam nec sem et quam malesuada semper id ac mauris. Sed tincidunt urna et sapien malesuada tempus.
 
-> Magdalena Lewandowska
+##### _Magdalena Lewandowska_
