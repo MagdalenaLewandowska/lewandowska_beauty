@@ -11,7 +11,7 @@ Idea jest prosta: prześlij do mnie zdjęcie twarzy i zobacz wstępną metamorfo
 
 Zdjęcie możesz wysłać przez wiadomość prywatną w moich mediach społecznościowych (link do nich znadziejesz na stronie głównej) lub na adres lewandowskabeauty@gmail.com! 
 
-Postaraj się aby zdjęcie było: 
+Wizualizacja brwi jest bezpłatna ale postaraj się aby zdjęcie było: 
 * dobrze doświetlone,
 * w dobrej rozdzielczości, 
 * z widoczna twarzą na wprost ( z lub bez makijażu).
