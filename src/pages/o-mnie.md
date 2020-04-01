@@ -16,7 +16,7 @@ Zdjęcie możesz wysłać przez wiadomość prywatną w moich mediach społeczno
 Postaraj się aby zdjęcie było: 
 * dobrze doświetlone,
 * w dobrej rozdzielczości, 
-* z widoczna twarzą na wprost ( z lub bez makijażu).
+* z widoczną twarzą na wprost ( z lub bez makijażu).
 
 A potem już tylko czekaj na opublikowanie swojej metamorfozy! 
 
