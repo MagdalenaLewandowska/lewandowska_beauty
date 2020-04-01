@@ -6,8 +6,14 @@ menu: 3
 
 # Kontakt
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi volutpat, urna sit amet posuere mattis, lacus erat suscipit velit, et egestas justo lacus eget dui. Proin condimentum vestibulum orci, sit amet eleifend lorem consequat non.x
 
-Curabitur tempus a lacus sed iaculis. Nunc faucibus iaculis turpis. Aenean at consequat odio. Donec ante odio, mollis nec risus sit amet, porta mollis sem. Sed facilisis scelerisque odio, id bibendum metus sagittis eget.
+Poczta e- mail: lewandowskabeauty@gmail.com
 
-Etiam ut orci metus. Ut non purus tellus. Aliquam nec sem et quam malesuada semper id ac mauris. Sed tincidunt urna et sapien malesuada tempus.
+Zapisy na stylizację brwi w salonie:
+tel. 502114724
+
+
+Adres:
+Salon Ochman Magia Urody
+ul. Piłsudskiego 2
+05 - Grójec
