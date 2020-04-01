@@ -4,7 +4,7 @@ title: Idea
 menu: 1
 ---
 
-# IDEA
+# Idea
 
 Witam na stronie wizualizacji brwi!
 
