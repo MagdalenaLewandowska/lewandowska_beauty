@@ -28,4 +28,4 @@ Kliknij zakładkę KONTAKT!
 
 
 
-##### Zapraszam!_Magdalena Lewandowska_
+##### Zapraszam! Magdalena Lewandowska_
