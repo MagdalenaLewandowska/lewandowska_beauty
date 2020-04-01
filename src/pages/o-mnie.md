@@ -13,7 +13,7 @@ Wizualizacja brwi jest BEZPŁATNA!
 
 Zdjęcie możesz wysłać przez wiadomość prywatną w moich mediach społecznościowych (link do nich znajdziesz na stronie głównej) lub na adres lewandowskabeauty@gmail.com! 
 
-Postaraj się aby zdjęcie było: 
+Postaraj się, aby zdjęcie było: 
 * dobrze doświetlone,
 * w dobrej rozdzielczości, 
 * z widoczną twarzą na wprost ( z lub bez makijażu).
