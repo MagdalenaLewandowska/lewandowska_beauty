@@ -7,10 +7,13 @@ menu: 2
 # Zgoda i warunki wykorzystania wizerunku
 
 Przekazując materiały w formie obrazów/ zdjęć automatycznie zgadzasz się na
-ich wykorzystanie, modyfikowanie, utrwalanie, powielanie, archiwizację, publiczne udostępnianie za pośrednictwem internetowych mediów społecznościowych:  
+ich wykorzystanie, modyfikowanie, utrwalanie, powielanie, archiwizację, publiczne udostępnianie za pośrednictwem tej strony internetowej oraz  internetowych mediów społecznościowych:  
 Instagram (https://www.instagram.com)
 Twitter (https://www.twitter.com)
 Facebook  (https://www.facebook.com)
+Tik tok (https://www.tiktok.com/pl/)
+Tumblr (https://www.tumblr.com/)
+Youtube (https://www.youtube.com/).
 Jak również: tworzenie, przechowywanie i użytkowanie ich kopii zapasowych. 
 Zgoda zostaje wyrażona bezterminowo, nieodpłatnie i bez ograniczeń podmiotowych i przedmiotowych.
 Nie ma ograniczenia czasowego ani geograficznego dotyczącego publikacji przesłanych materiałów.
