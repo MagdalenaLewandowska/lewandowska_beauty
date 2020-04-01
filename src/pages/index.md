@@ -11,7 +11,7 @@ note: Oryginał: Jan Kowalski PHOTO STUDIO
 +++
 
 +++compare
-left: /images/eyebrow/before2.jpg
-right: /images/eyebrow/after2.jpg
+left: /images/eyebrow/model2.jpg
+right: /images/eyebrow/model2a.jpg
 note: Oryginał: Jan Kowalski PHOTO STUDIO
 +++
