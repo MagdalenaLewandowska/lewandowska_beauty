@@ -7,8 +7,7 @@ menu: 2
 # Zgoda i warunki wykorzystania wizerunku
 
 Przekazując materiały w formie obrazów/ zdjęć automatycznie zgadzasz się na
-ich wykorzystanie, modyfikowanie, utrwalanie, powielanie, archiwizację, publiczne udostępnianie za pośrednictwem tej strony internetowej oraz  internetowych mediów społecznościowych:  
-Instagram (https://www.instagram.com)
+ich wykorzystanie, modyfikowanie, utrwalanie, powielanie, archiwizację, publiczne udostępnianie za pośrednictwem tej strony internetowej oraz  internetowych mediów społecznościowych:  Instagram (https://www.instagram.com)
 Twitter (https://www.twitter.com)
 Facebook  (https://www.facebook.com)
 Tik tok (https://www.tiktok.com/pl/)
