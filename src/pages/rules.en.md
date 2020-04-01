@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules
-menu: 2
+menu: 3
 ---
 
 # Rules
