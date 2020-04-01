@@ -12,9 +12,9 @@ note: Modelka: <a href="https://pl.freepik.com/darmowe-zdjecie-wektory/osoby">Os
 +++
 
 +++compare
-left: /images/eyebrow/model2.jpg
-right: /images/eyebrow/model2a.jpg
-note: Modelka: <a href="https://pl.freepik.com/darmowe-zdjecie-wektory/osoby">Osoby zdjęcie utworzone przez Racool_studio - pl.freepik.com</a>
+left: /images/eyebrow/model5.jpg
+right: /images/eyebrow/model5a.jpg
+note: Modelka: <a href="https://pl.freepik.com/darmowe-zdjecie-wektory/swiatlo">Światło zdjęcie utworzone przez Racool_studio - pl.freepik.com</a>
 
 +++
 
@@ -33,8 +33,9 @@ note: Modelka: <a href="https://pl.freepik.com/darmowe-zdjecie-wektory/osoby">Os
 +++
 
 +++compare
-left: /images/eyebrow/model5.jpg
-right: /images/eyebrow/model5a.jpg
-note: Modelka: <a href="https://pl.freepik.com/darmowe-zdjecie-wektory/swiatlo">Światło zdjęcie utworzone przez Racool_studio - pl.freepik.com</a>
+left: /images/eyebrow/model2.jpg
+right: /images/eyebrow/model2a.jpg
+note: Modelka: <a href="https://pl.freepik.com/darmowe-zdjecie-wektory/osoby">Osoby zdjęcie utworzone przez Racool_studio - pl.freepik.com</a>
 
 +++
+
