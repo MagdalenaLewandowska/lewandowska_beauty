@@ -1,6 +1,6 @@
 ---
 layout: default
-title: O mnie
+title: Idea
 menu: 1
 ---
 
@@ -8,24 +8,26 @@ menu: 1
 
 Witam na stronie wizualizacji brwi!
 
-Idea jest prosta: prześlijcie do mnie zdjęcie swojej twarzy i przejdźcie wstępną metamorfozę brwi. Przekonajcie się jaki mam na nie pomysł i jak w przyszłości mogą wyglądać 🙂 
+Idea jest prosta: prześlij do mnie zdjęcie swojej twarzy i zobacz wstępną metamorfozę twoich brwi. Przekonaj się jaki mam na nie pomysł i jak w przyszłości mogą wyglądać! 
 
-Zdjęcie możecie wysłać przez wiadomość prywatną w moich mediach społecznościowym (linki do nich znadziejecie na stronie głównej) lub na adres lewandowskabeauty@gmail.com! 
+Zdjęcie możesz wysłać przez wiadomość prywatną w moich mediach społecznościowych (link do nich znadziejesz na stronie głównej) lub na adres lewandowskabeauty@gmail.com! 
 
-Zdjęcie musi być: 
-* dobrze oświetlone,
-* w dobrej rozdzielczości 
-* z widoczna twarzą na wprost 
-* z lub bez makijażu twarzy i brwi
+Postaraj się aby zdjęcie było: 
+* dobrze doświetlone,
+* w dobrej rozdzielczości, 
+* z widoczna twarzą na wprost, 
+* z lub bez makijażu twarzy i brwi.
 
-Czekaj na opublikowanie swojej metamorfozy! 
+A potem już tylko czekaj na opublikowanie swojej metamorfozy! 
 
-Wszystkie metamorfozy kreuje tak bym mogła Ci pomóc w uzyskaniu takiego samego efektu "na żywo". 
+NAJWAŻNIEJSZE!
+Wszystkie metamorfozy kreuje tak, bym mogła pomócCi później odtworzyć taki sam efekt "na żywo". 
 
-Efekty prawdziwych metamorfoz znajdziesz na moim Instagramie, 
-a mnie w salonie:
+Znajdziesz mnie w salonie:
 Ochman Magia Urody
 Piłsudskiego 2
 05-600 Grójec
+
+Zapraszam!
 
 ##### _Magdalena Lewandowska_
