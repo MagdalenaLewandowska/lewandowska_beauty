@@ -15,14 +15,12 @@ Zdjęcie możesz wysłać przez wiadomość prywatną w moich mediach społeczno
 Postaraj się aby zdjęcie było: 
 * dobrze doświetlone,
 * w dobrej rozdzielczości, 
-* z widoczna twarzą na wprost, 
-
-Nie ma znaczenia czy będziesz w makijażu czy bez.
+* z widoczna twarzą na wprost ( z lub bez makijażu).
 
 Potem już tylko czekaj na opublikowanie swojej metamorfozy! 
 
 NAJWAŻNIEJSZE!
-Jeśli efekt PO przypadnie Ci do gustu, umów się do mnie na wizytę, udzielę Ci niezbędnych porad a także jako stylistka brwi wykonam już "na żywo" wszystkie potrzebne Twoim brwiom zabiegi np.  regulację i koloryzację abyś mogła cieszyć się dokładnie takim samym efektem jak na ekranie!
+Jeśli efekt PO przypadnie Ci do gustu, umów się do mnie na wizytę, udzielę Ci niezbędnych porad a także jako stylistka brwi wykonam wszystkie potrzebne Twoim brwiom zabiegi np. regulację i koloryzację byś mogła cieszyć się dokładnie takim samym efektem "na żywo" jak na ekranie!
 
 Gdzie mnie znajdziesz? 
 Kliknij zakładkę KONTAKT!
