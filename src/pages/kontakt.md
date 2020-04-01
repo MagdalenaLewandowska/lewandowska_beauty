@@ -10,10 +10,10 @@ menu: 3
 Przesyłanie zdjęć: lewandowskabeauty@gmail.com
 
 Adres salonu:
-Ochman Magia Urody
-ul. Piłsudskiego 2
-05 - 600 Grójec
-woj. mazowieckie
+Ochman Magia Urody,
+ul. Piłsudskiego 2,
+05 - 600 Grójec,
+woj. mazowieckie.
 
 Zapisy na stylizację brwi w salonie:
 tel. 502114724
