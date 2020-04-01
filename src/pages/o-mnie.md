@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Idea
+title: O stronie
 menu: 1
 ---
 
-# Idea
+# O stronie
 
 Witam na stronie wizualizacji brwi!
 
