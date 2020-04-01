@@ -7,7 +7,7 @@ menu: 3
 # Kontakt
 
 
-Poczta e- mail: lewandowskabeauty@gmail.com
+Przesyłanie zdjęć: lewandowskabeauty@gmail.com
 
 Zapisy na stylizację brwi w salonie:
 tel. 502114724
