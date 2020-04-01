@@ -22,7 +22,7 @@ Nie ma znaczenia czy będziesz w makijażu czy bez.
 Potem już tylko czekaj na opublikowanie swojej metamorfozy! 
 
 NAJWAŻNIEJSZE!
-Jeśli efekt PO przypadnie Ci do gustu, umów się do mnie na wizytę, udzielaję Ci niezbędnych porad a także jako stylistka brwi wykonam już "na żywo" wszystki niezbędne zabiegi np.  regulację i koloryzację brwi abyś mogła cieszyć się edektem nie tylko na ekranie!
+Jeśli efekt PO przypadnie Ci do gustu, umów się do mnie na wizytę, udzielę Ci niezbędnych porad a także jako stylistka brwi wykonam już "na żywo" wszystkie potrzebne Twoim brwiom zabiegi np.  regulację i koloryzację abyś mogła cieszyć się dokładnie takim samym efektem jak na ekranie!
 
 Gdzie mnie znajdziesz? 
 Kliknij zakładkę KONTAKT!
