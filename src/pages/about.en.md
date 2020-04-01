@@ -6,10 +6,27 @@ menu: 2
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi volutpat, urna sit amet posuere mattis, lacus erat suscipit velit, et egestas justo lacus eget dui. Proin condimentum vestibulum orci, sit amet eleifend lorem consequat non.x
+Welcome na stronie wizualizacji brwi!
 
-Curabitur tempus a lacus sed iaculis. Nunc faucibus iaculis turpis. Aenean at consequat odio. Donec ante odio, mollis nec risus sit amet, porta mollis sem. Sed facilisis scelerisque odio, id bibendum metus sagittis eget.
+Idea jest prosta: prześlij do mnie zdjęcie twarzy i zobacz wstępną metamorfozę swoich brwi. Przekonaj się jaki mam na nie pomysł i jak w przyszłości mogą wyglądać! 
 
-Etiam ut orci metus. Ut non purus tellus. Aliquam nec sem et quam malesuada semper id ac mauris. Sed tincidunt urna et sapien malesuada tempus.
+Wizualizacja brwi jest BEZPŁATNA!
 
-##### _Magdalena Lewandowska_
+Zdjęcie możesz wysłać przez wiadomość prywatną w moich mediach społecznościowych (link do nich znajdziesz na stronie głównej) lub na adres lewandowskabeauty@gmail.com! 
+
+Postaraj się, aby zdjęcie było: 
+* dobrze doświetlone,
+* w dobrej rozdzielczości, 
+* z widoczną twarzą na wprost ( z lub bez makijażu).
+
+A potem już tylko czekaj na opublikowanie swojej metamorfozy! 
+
+NAJWAŻNIEJSZE!
+Jeśli efekt "PO" przypadnie Ci do gustu, możesz umówić się do mnie na wizytę, udzielę Ci niezbędnych porad a także jako stylistka brwi wykonam wszystkie potrzebne Twoim brwiom zabiegi np. regulację i koloryzację byś mogła cieszyć się dokładnie takim samym efektem "na żywo" jak na ekranie!
+
+Gdzie mnie znajdziesz? 
+Kliknij zakładkę KONTAKT!
+
+
+
+##### Best regards! Magdalena Lewandowska
