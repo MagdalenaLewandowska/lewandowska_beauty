@@ -284,3 +284,7 @@ a.menu__link:hover {
     margin-bottom: 0.6em;
   }
 }
+
+.hidden {
+  display: none;
+}
