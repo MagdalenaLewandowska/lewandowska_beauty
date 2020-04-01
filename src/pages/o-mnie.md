@@ -17,10 +17,10 @@ Postaraj się aby zdjęcie było:
 * w dobrej rozdzielczości, 
 * z widoczna twarzą na wprost ( z lub bez makijażu).
 
-Potem już tylko czekaj na opublikowanie swojej metamorfozy! 
+A potem już tylko czekaj na opublikowanie swojej metamorfozy! 
 
 NAJWAŻNIEJSZE!
-Jeśli efekt PO przypadnie Ci do gustu, umów się do mnie na wizytę, udzielę Ci niezbędnych porad a także jako stylistka brwi wykonam wszystkie potrzebne Twoim brwiom zabiegi np. regulację i koloryzację byś mogła cieszyć się dokładnie takim samym efektem "na żywo" jak na ekranie!
+Jeśli efekt "PO" przypadnie Ci do gustu, możesz umówić się do mnie na wizytę, udzielę Ci niezbędnych porad a także jako stylistka brwi wykonam wszystkie potrzebne Twoim brwiom zabiegi np. regulację i koloryzację byś mogła cieszyć się dokładnie takim samym efektem "na żywo" jak na ekranie!
 
 Gdzie mnie znajdziesz? 
 Kliknij zakładkę KONTAKT!
