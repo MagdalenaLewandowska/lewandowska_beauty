@@ -19,15 +19,20 @@ const markdownToHTML = markdown => {
 }
 
 const specialTags = {
-  compare({ left, right, note }) {
+  compare({ left, right, note }, isEnglish = false) {
     const template = fs
       .readFileSync("src/templates/components/compare.html")
       .toString()
+
+    const before = isEnglish ? "BEFORE" : "PRZED"
+    const after = isEnglish ? "AFTER" : "PO"
 
     return template
       .replace("{{left}}", left)
       .replace("{{right}}", right)
       .replace("{{note}}", note)
+      .replace("{{before}}", before)
+      .replace("{{after}}", after)
   },
 
   social({ name, image, url }) {
@@ -42,7 +47,7 @@ const specialTags = {
   },
 }
 
-const insertSpecialComponents = markdown => {
+const insertSpecialComponents = (markdown, isEnglish) => {
   const lines = markdown.split("\n")
   const output = []
 
@@ -55,7 +60,10 @@ const insertSpecialComponents = markdown => {
       componentData.name = trimmed.slice(3).toLowerCase()
       componentData.props = {}
     } else if (trimmed.match(/^\+\+\+$/i)) {
-      const transformed = specialTags[componentData.name](componentData.props)
+      const transformed = specialTags[componentData.name](
+        componentData.props,
+        isEnglish
+      )
 
       output.push(transformed)
 
@@ -80,8 +88,16 @@ const getPages = () => {
     .filter(name => name !== "components")
     .map(fullName => {
       const [fileName] = fullName.split(".")
-      const outputFolder =
-        fileName === "index" ? "public" : `public/${fileName}`
+      const isEnglish = fullName.includes(".en.")
+
+      const outputFolder = isEnglish
+        ? fileName === "index"
+          ? "public/en/"
+          : `public/en/${fileName}`
+        : fileName === "index"
+        ? "public"
+        : `public/${fileName}`
+
       const page = fs.readFileSync(`src/pages/${fullName}`).toString()
       const lines = page.split("\n")
 
@@ -90,15 +106,26 @@ const getPages = () => {
       )
       const body = lines.slice(5).join("\n")
 
-      return { options, body, outputFolder, fileName }
+      return { options, body, outputFolder, fileName, isEnglish }
     })
 }
 
-const getLinksData = pages => {
+const getLinksData = (pages, english = false) => {
   return pages
-    .filter(page => Number(page.options.menu) !== 0)
+    .filter(
+      page => Number(page.options.menu) !== 0 && page.isEnglish === english
+    )
     .sort((a, b) => a.options.menu - b.options.menu)
-    .map(page => ({ link: page.fileName, title: page.options.title }))
+    .map(page => ({
+      link: page.isEnglish
+        ? page.fileName === "index"
+          ? "en"
+          : `en/${page.fileName}`
+        : page.fileName === "index"
+        ? ""
+        : page.fileName,
+      title: page.options.title,
+    }))
 }
 
 const renderLinks = linksData => {
@@ -119,8 +146,8 @@ const renderSocial = () => {
   return insertSpecialComponents(markdown)
 }
 
-const render = async ({ options, body, outputFolder }, links) => {
-  const withSpecialComponents = insertSpecialComponents(body)
+const render = async ({ options, body, outputFolder, isEnglish }, links) => {
+  const withSpecialComponents = insertSpecialComponents(body, isEnglish)
   const content = await markdownToHTML(withSpecialComponents)
   const social = renderSocial()
 
@@ -131,6 +158,7 @@ const render = async ({ options, body, outputFolder }, links) => {
     .replace("{{content}}", content)
     .replace("{{links}}", links)
     .replace("{{social}}", social)
+    .replace("{{homeUrl}}", isEnglish ? "/en" : "/")
 
   fs.ensureDirSync(outputFolder)
   fs.writeFileSync(`${outputFolder}/index.html`, rendered)
@@ -139,9 +167,14 @@ const render = async ({ options, body, outputFolder }, links) => {
 const main = async () => {
   const pages = getPages()
   const links = renderLinks(getLinksData(pages))
+  const linksEnglish = renderLinks(getLinksData(pages, true))
 
   for (const page of pages) {
-    await render(page, links)
+    if (page.isEnglish) {
+      await render(page, linksEnglish)
+    } else {
+      await render(page, links)
+    }
   }
 }
 
