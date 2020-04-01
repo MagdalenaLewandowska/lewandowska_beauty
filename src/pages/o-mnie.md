@@ -26,6 +26,6 @@ Jeśli efekt "PO" przypadnie Ci do gustu, możesz umówić się do mnie na wizyt
 Gdzie mnie znajdziesz? 
 Kliknij zakładkę KONTAKT!
 
-Zapraszam!
 
-##### _Magdalena Lewandowska_
+
+##### Zapraszam!_Magdalena Lewandowska_
