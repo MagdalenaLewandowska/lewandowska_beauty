@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Główna
-menu: 0
+menu: 1
 ---
 
 +++compare
