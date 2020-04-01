@@ -27,3 +27,9 @@ left: /images/eyebrow/model4.jpg
 right: /images/eyebrow/model4a.jpg
 note: Oryginał: Jan Kowalski PHOTO STUDIO
 +++
+
++++compare
+left: /images/eyebrow/model5.jpg
+right: /images/eyebrow/model5a.jpg
+note: Oryginał: Jan Kowalski PHOTO STUDIO
++++
