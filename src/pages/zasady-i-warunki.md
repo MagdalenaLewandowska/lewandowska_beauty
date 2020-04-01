@@ -20,7 +20,7 @@ Rozumiesz, że twoje zdjęcie może być edytowane, kopiowane, wystawiane, publi
 Zezwalasz również na tworzenie, przechowywanie i użytkowanie kopii zapasowych przesłanych zdjęć.
 
 
-Niniejszym zwalniasz Lewandowska Beauty (https://lewandowska-beauty.netlify.com/) z  roszczenia o zniesławienie lub naruszenie prywatności. Zgoda zostaje wyrażona bezterminowo, nieodpłatnie i bez ograniczeń podmiotowych i przedmiotowych. 
+Niniejszym zwalniasz Lewandowska Beauty (https://lewandowskabeauty.com/) z  roszczenia o zniesławienie lub naruszenie prywatności. Zgoda zostaje wyrażona bezterminowo, nieodpłatnie i bez ograniczeń podmiotowych i przedmiotowych. 
 
 
 Nie ma ograniczenia czasowego ani geograficznego dotyczącego publikacji przesłanych materiałów. 
