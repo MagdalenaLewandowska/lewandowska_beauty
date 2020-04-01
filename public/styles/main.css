@@ -191,9 +191,6 @@ a.menu__link:hover {
   margin-top: 60px;
   font-family: Roboto, sans-serif;
 }
-.compare_img {
-  max-width: 600px;
-}
 
 .compare__note {
   font-style: italic;
@@ -287,4 +284,8 @@ a.menu__link:hover {
 
 .hidden {
   display: none;
+}
+
+.beer-reveal {
+  border-right: solid 2px rgba(255, 255, 255, 0.2);
 }
