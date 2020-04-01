@@ -6,10 +6,26 @@ menu: 1
 
 # O mnie
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi volutpat, urna sit amet posuere mattis, lacus erat suscipit velit, et egestas justo lacus eget dui. Proin condimentum vestibulum orci, sit amet eleifend lorem consequat non.x
+Witam na stronie wizualizacji brwi!
 
-Curabitur tempus a lacus sed iaculis. Nunc faucibus iaculis turpis. Aenean at consequat odio. Donec ante odio, mollis nec risus sit amet, porta mollis sem. Sed facilisis scelerisque odio, id bibendum metus sagittis eget.
+Idea jest prosta: prześlijcie do mnie zdjęcie swojej twarzy i przejdźcie wstępną metamorfozę brwi. Przekonajcie się jaki mam na nie pomysł i jak w przyszłości mogą wyglądać 🙂 
 
-Etiam ut orci metus. Ut non purus tellus. Aliquam nec sem et quam malesuada semper id ac mauris. Sed tincidunt urna et sapien malesuada tempus.
+Zdjęcie możecie wysłać przez wiadomość prywatną w moich mediach społecznościowym (linki do nich znadziejecie na stronie głównej) lub na adres lewandowskabeauty@gmail.com! 
+
+Zdjęcie musi być: 
+* dobrze oświetlone,
+* w dobrej rozdzielczości 
+* z widoczna twarzą na wprost 
+* z lub bez makijażu twarzy i brwi
+
+Czekaj na opublikowanie swojej metamorfozy! 
+
+Wszystkie metamorfozy kreuje tak bym mogła Ci pomóc w uzyskaniu takiego samego efektu "na żywo". 
+
+Efekty prawdziwych metamorfoz znajdziesz na moim Instagramie, 
+a mnie w salonie:
+Ochman Magia Urody
+Piłsudskiego 2
+05-600 Grójec
 
 ##### _Magdalena Lewandowska_
