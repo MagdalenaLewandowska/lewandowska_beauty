@@ -122,3 +122,17 @@ Listy numerowana (może być zagnieżdżona):
    1. podpunkt
 1. punkt drugi
 1. punkt trzeci
+
+```
+Linki można dodawać w dowolnym miejscu za pomocą:
+
+[treść linka](adres)
+
+Przykłady:
+
+Chcesz to możesz kliknąć [tutaj](https://google.com), możesz też linkować do [podstrony](/o-mnie).
+```
+
+Przykłady:
+
+Chcesz to możesz kliknąć [tutaj](https://google.com), możesz też linkować do [podstrony](/o-mnie).
