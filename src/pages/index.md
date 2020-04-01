@@ -5,8 +5,8 @@ menu: 1
 ---
 
 +++compare
-left: /images/eyebrow/pierwsza.jpg
-right: /images/eyebrow/pierwsza2.jpg
+left: /images/eyebrow/model1.jpg
+right: /images/eyebrow/model1a.jpg
 note: Oryginał: Jan Kowalski PHOTO STUDIO
 +++
 
