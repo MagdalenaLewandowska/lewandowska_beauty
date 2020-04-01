@@ -9,7 +9,7 @@ menu: 2
 Przesyłając swoje zgłoszenie w formie zdjęć za pośrednictwem poczty e-mail (lewandowskabeauty@gmail.com) oraz wiadomości prywatnych na internetowych mediach społecznościowych należących do Lewandowska Beauty (https://lewandowskabeauty.com/) tj. Instagram, Twitter, Facebook, Tik tok, Tumblr i Youtube automatycznie akceptujesz warunki określone poniżej.
 
 
-Na niniejszych warunkach wyrażasz zgodę na wykorzystanie przesłanego przez siebie materiału (zdjęcia) nieodpłatnie i bez jakiegokolwiek innego wynagrodzenia dla Lewandowska Beauty (https://lewandowskabeauty.com/).
+Na niniejszych warunkach wyrażasz zgodę na wykorzystanie przesłanego przez siebie materiału (zdjęcia) nieodpłatnie, i bez jakiegokolwiek innego wynagrodzenia dla Lewandowska Beauty (https://lewandowskabeauty.com/).
 
 
 Rozumiesz, że twoje zdjęcie może być edytowane, kopiowane, wystawiane, publikowane lub dystrybuowane zarówno przed jak i po edycji i zrzekasz się prawa do kontroli lub zatwierdzenia zdjęcia po skończonej edycji wykonanej przez Lewandowska Beauty (https://lewandowskabeauty.com/), na którym pojawia się twoje podobieństwo. Ponadto zrzekasz się wszelkich praw do wszelkich odszkodowań wynikających lub związanych z wykorzystaniem twojego zgłoszenia.
