@@ -29,6 +29,17 @@ const specialTags = {
       .replace("{{right}}", right)
       .replace("{{note}}", note)
   },
+
+  social({ name, image, url }) {
+    const template = fs
+      .readFileSync("src/templates/components/social.html")
+      .toString()
+
+    return template
+      .replace("{{name}}", name)
+      .replace("{{image}}", image)
+      .replace("{{url}}", url)
+  },
 }
 
 const insertSpecialComponents = markdown => {
@@ -64,19 +75,23 @@ const insertSpecialComponents = markdown => {
 }
 
 const getPages = () => {
-  return fs.readdirSync("src/pages").map(fullName => {
-    const [fileName] = fullName.split(".")
-    const outputFolder = fileName === "index" ? "public" : `public/${fileName}`
-    const page = fs.readFileSync(`src/pages/${fullName}`).toString()
-    const lines = page.split("\n")
+  return fs
+    .readdirSync("src/pages")
+    .filter(name => name !== "components")
+    .map(fullName => {
+      const [fileName] = fullName.split(".")
+      const outputFolder =
+        fileName === "index" ? "public" : `public/${fileName}`
+      const page = fs.readFileSync(`src/pages/${fullName}`).toString()
+      const lines = page.split("\n")
 
-    const options = Object.fromEntries(
-      lines.slice(1, 4).map(option => option.split(":").map(x => x.trim()))
-    )
-    const body = lines.slice(5).join("\n")
+      const options = Object.fromEntries(
+        lines.slice(1, 4).map(option => option.split(":").map(x => x.trim()))
+      )
+      const body = lines.slice(5).join("\n")
 
-    return { options, body, outputFolder, fileName }
-  })
+      return { options, body, outputFolder, fileName }
+    })
 }
 
 const getLinksData = pages => {
@@ -98,9 +113,16 @@ const renderLinks = linksData => {
     .join("\n")
 }
 
+const renderSocial = () => {
+  const markdown = fs.readFileSync("src/pages/components/social.md").toString()
+
+  return insertSpecialComponents(markdown)
+}
+
 const render = async ({ options, body, outputFolder }, links) => {
   const withSpecialComponents = insertSpecialComponents(body)
   const content = await markdownToHTML(withSpecialComponents)
+  const social = renderSocial()
 
   const rendered = fs
     .readFileSync(`src/templates/layouts/${options.layout}.html`)
@@ -108,6 +130,7 @@ const render = async ({ options, body, outputFolder }, links) => {
     .replace("{{pageTitle}}", options.title)
     .replace("{{content}}", content)
     .replace("{{links}}", links)
+    .replace("{{social}}", social)
 
   fs.ensureDirSync(outputFolder)
   fs.writeFileSync(`${outputFolder}/index.html`, rendered)
