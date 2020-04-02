@@ -303,3 +303,7 @@ a.menu__link:hover {
 .beer-reveal {
   border-right: solid 2px rgba(255, 255, 255, 0.2);
 }
+
+.beer-range {
+  user-select: none;
+}
