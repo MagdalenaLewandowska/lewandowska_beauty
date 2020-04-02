@@ -6,27 +6,38 @@ menu: 2
 
 # About
 
-Welcome na stronie wizualizacji brwi!
+Welcome to my eyebrow visualization website!
 
-Idea jest prosta: prześlij do mnie zdjęcie twarzy i zobacz wstępną metamorfozę swoich brwi. Przekonaj się jaki mam na nie pomysł i jak w przyszłości mogą wyglądać! 
+The idea is simple: send me a photo of your face and see the metamorphosis of your eyebrows. I will show you how beautiful they could be!
 
-Wizualizacja brwi jest BEZPŁATNA!
+All this visualization is for FREE!
 
-Zdjęcie możesz wysłać przez wiadomość prywatną w moich mediach społecznościowych (link do nich znajdziesz na stronie głównej) lub na adres lewandowskabeauty@gmail.com! 
+You can send me your photo using my social media messengers (you can find the link in the main menu) or using my e-mail lewandowskabeauty@gmail.com.
 
-Postaraj się, aby zdjęcie było: 
-* dobrze doświetlone,
-* w dobrej rozdzielczości, 
-* z widoczną twarzą na wprost ( z lub bez makijażu).
+Your photo should have:
+* good light
+* good quality
+*and has to shown the front of your face (with or without make-up).
 
-A potem już tylko czekaj na opublikowanie swojej metamorfozy! 
+And then just wait for the publication of your metamorphosis!
 
-NAJWAŻNIEJSZE!
-Jeśli efekt "PO" przypadnie Ci do gustu, możesz umówić się do mnie na wizytę, udzielę Ci niezbędnych porad a także jako stylistka brwi wykonam wszystkie potrzebne Twoim brwiom zabiegi np. regulację i koloryzację byś mogła cieszyć się dokładnie takim samym efektem "na żywo" jak na ekranie!
+THE MOST IMPORTANT! If you like what I have done, you can come to meet me and I will make your dreams come true. As a professional eyebrow stylist I will define the best shape of your eyebrows and if necessary I will dye them in the most natural way. I promise, you will love it!
 
 Gdzie mnie znajdziesz? 
 Kliknij zakładkę KONTAKT!
 
 
 
-##### Best regards! Magdalena Lewandowska
+##### See you soon! Magdalena Lewandowska
+
+    
+  
+    
+    
+
+    
+    
+
+    
+
+See you sonn! Magdalena Lewandowska
