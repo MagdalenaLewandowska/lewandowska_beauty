@@ -9,9 +9,9 @@ Witam na stronie wizualizacji brwi!
 
 Idea jest prosta: prześlij do mnie zdjęcie twarzy i zobacz wstępną metamorfozę swoich brwi. Przekonaj się jaki mam na nie pomysł i jak w przyszłości mogą wyglądać! 
 
-Wizualizacja brwi jest BEZPŁATNA!
+Wizualizacja brwi jest BEZPŁATNA.
 
-Zdjęcie możesz wysłać przez wiadomość prywatną w moich mediach społecznościowych (link do nich znajdziesz na stronie głównej) lub na adres lewandowskabeauty@gmail.com! 
+Zdjęcie możesz wysłać przez wiadomość prywatną w moich mediach społecznościowych (link do nich znajdziesz na stronie głównej) lub na adres lewandowskabeauty@gmail.com.
 
 Postaraj się, aby zdjęcie było: 
 * dobrze doświetlone,
