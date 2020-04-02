@@ -23,10 +23,10 @@ And then just wait for the publication of your metamorphosis!
 
 THE MOST IMPORTANT! If you like what I have done, you can come to meet me and I will make your dreams come true. As a professional eyebrow stylist I will define the best shape of your eyebrows and if necessary I will dye them in the most natural way. I promise, you will love it!
 
-Gdzie mnie znajdziesz? 
-Kliknij zakładkę KONTAKT!
+Where to find me? 
+Click "Contact"!
 
 
 
-##### See you soon! Magdalena Lewandowska
+##### See you soon! Magdalena Lewandowska 
 
