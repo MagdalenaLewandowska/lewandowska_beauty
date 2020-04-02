@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Rules
+title: Terms & conditions
 menu: 3
 ---
 
-# Rules
+# Terms & conditions
 	 	 	 	 	
 By submitting your application in the form of photos via e-mail (lewandowskabeauty@gmail.com) and private messages on Lewandowska Beauty's social media (https://lewandowskabeauty.com/), i.e. Instagram, Twitter, Facebook, TikTok, Tumblr and Youtube, you automatically accept the terms and conditions set out below.
 
