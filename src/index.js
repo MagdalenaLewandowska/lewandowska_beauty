@@ -146,10 +146,19 @@ const renderSocial = () => {
   return insertSpecialComponents(markdown)
 }
 
+const renderFooter = () => {
+  const footerTemplate = fs
+    .readFileSync("src/templates/components/footer.html")
+    .toString()
+
+  return footerTemplate.replace("{{year}}", String(new Date().getFullYear()))
+}
+
 const render = async ({ options, body, outputFolder, isEnglish }, links) => {
   const withSpecialComponents = insertSpecialComponents(body, isEnglish)
   const content = await markdownToHTML(withSpecialComponents)
   const social = renderSocial()
+  const footer = renderFooter()
 
   const rendered = fs
     .readFileSync(`src/templates/layouts/${options.layout}.html`)
@@ -160,6 +169,7 @@ const render = async ({ options, body, outputFolder, isEnglish }, links) => {
     .replace("{{social}}", social)
     .replace("{{homeUrl}}", isEnglish ? "/en" : "/")
     .replace("{{lang}}", isEnglish ? "en" : "pl")
+    .replace("{{footer}}", footer)
 
   fs.ensureDirSync(outputFolder)
   fs.writeFileSync(`${outputFolder}/index.html`, rendered)
