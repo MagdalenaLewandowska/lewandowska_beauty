@@ -300,8 +300,18 @@ a.menu__link:hover {
   display: none;
 }
 
+.beer-slider {
+  user-select: none;
+}
+
+.beer-slider div,
+.beer-slider img {
+  user-select: none;
+}
+
 .beer-reveal {
   border-right: solid 2px rgba(255, 255, 255, 0.2);
+  user-select: none;
 }
 
 .beer-range {
