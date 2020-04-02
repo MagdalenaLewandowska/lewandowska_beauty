@@ -15,5 +15,4 @@ Piłsudskiego 2 Street,
 POLAND
 
 Registration for eyebrow styling in the salon:
-+048 502 114 724
-
+<a href="tel:+48502114724">+048 502 114 724</a>

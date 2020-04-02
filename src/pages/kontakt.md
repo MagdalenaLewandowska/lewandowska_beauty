@@ -6,7 +6,6 @@ menu: 3
 
 # Kontakt
 
-
 Przesyłanie zdjęć: lewandowskabeauty@gmail.com
 
 Adres salonu:
@@ -16,5 +15,4 @@ ul. Piłsudskiego 2,
 woj. mazowieckie.
 
 Zapisy na stylizację brwi w salonie:
-tel. 502114724
-
+tel. <a href="tel:+48502114724">502 114 724</a>
