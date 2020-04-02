@@ -159,6 +159,7 @@ const render = async ({ options, body, outputFolder, isEnglish }, links) => {
     .replace("{{links}}", links)
     .replace("{{social}}", social)
     .replace("{{homeUrl}}", isEnglish ? "/en" : "/")
+    .replace("{{lang}}", isEnglish ? "en" : "pl")
 
   fs.ensureDirSync(outputFolder)
   fs.writeFileSync(`${outputFolder}/index.html`, rendered)

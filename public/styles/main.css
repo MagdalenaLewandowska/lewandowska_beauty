@@ -203,6 +203,7 @@ a.menu__link:hover {
 .compare {
   margin-top: 60px;
   font-family: Roboto, sans-serif;
+  user-select: none;
 }
 
 .compare__note {
