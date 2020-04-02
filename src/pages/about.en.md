@@ -28,5 +28,5 @@ Kliknij zakładkę KONTAKT!
 
 
 
-##### See you soon! Magdalena Lewandowska
+##### See you soon! Magdalena Lewandowska 
 
