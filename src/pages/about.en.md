@@ -8,9 +8,9 @@ menu: 2
 
 Welcome to my eyebrow visualization website!
 
-The idea is simple: send me a photo of your face and see the metamorphosis of your eyebrows. I will show you how beautiful they could be!
+The idea is simple: send me a photo of your face and see your eyebrows metamorphosed. I will show you how beautiful they could be!
 
-All this visualization is for FREE!
+Visualization is completly for FREE!
 
 You can send me your photo using my social media messengers (you can find the link in the main menu) or using my e-mail lewandowskabeauty@gmail.com.
 
