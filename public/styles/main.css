@@ -304,16 +304,10 @@ a.menu__link:hover {
   user-select: none;
 }
 
-.beer-slider div,
-.beer-slider img {
+.beer-slider * {
   user-select: none;
 }
 
 .beer-reveal {
   border-right: solid 2px rgba(255, 255, 255, 0.2);
-  user-select: none;
-}
-
-.beer-range {
-  user-select: none;
 }
