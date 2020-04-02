@@ -17,7 +17,7 @@ You can send me your photo using my social media messengers (you can find the li
 Your photo should have:
 * good light
 * good quality
-*and has to shown the front of your face (with or without make-up).
+* and has to shown the front of your face (with or without make-up).
 
 And then just wait for the publication of your metamorphosis!
 
@@ -30,14 +30,3 @@ Kliknij zakładkę KONTAKT!
 
 ##### See you soon! Magdalena Lewandowska
 
-    
-  
-    
-    
-
-    
-    
-
-    
-
-See you sonn! Magdalena Lewandowska
