@@ -7,7 +7,7 @@ menu: 1
 
 Witam na stronie wizualizacji brwi!
 
-Idea jest prosta: prześlij do mnie zdjęcie twarzy i zobacz wstępną metamorfozę swoich brwi. Przekonaj się jaki mam na nie pomysł i jak w przyszłości mogą wyglądać! 
+Idea jest prosta: prześlij do mnie zdjęcie twarzy i poddaj swoje brwi metamorfozie. Przekonaj się jaki mam na nie pomysł i jak w przyszłości realnie mogą wyglądać! Praca otrzymana ode mnie pomoże Ci również w ich domowej stylizacji. !
 
 Wizualizacja brwi jest BEZPŁATNA.
 
