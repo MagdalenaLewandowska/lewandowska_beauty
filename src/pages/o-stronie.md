@@ -7,7 +7,7 @@ menu: 1
 
 Witam na stronie wizualizacji brwi!
 
-Idea jest prosta: prześlij do mnie zdjęcie twarzy i poddaj swoje brwi metamorfozie. Przekonaj się jaki mam na nie pomysł i jak w przyszłości realnie mogą wyglądać! Praca otrzymana ode mnie pomoże Ci również w ich domowej stylizacji. !
+Idea jest prosta: prześlij do mnie zdjęcie twarzy i poddaj swoje brwi metamorfozie. Przekonaj się jaki mam na nie pomysł i jak w przyszłości realnie mogą wyglądać! Praca otrzymana ode mnie pomoże Ci również w ich domowej stylizacji !
 
 Wizualizacja brwi jest BEZPŁATNA.
 
@@ -21,7 +21,9 @@ Postaraj się, aby zdjęcie było:
 A potem już tylko czekaj na opublikowanie swojej metamorfozy! 
 
 NAJWAŻNIEJSZE!
-Jeśli efekt "PO" przypadnie Ci do gustu, możesz umówić się do mnie na wizytę, udzielę Ci niezbędnych porad a także jako stylistka brwi wykonam wszystkie potrzebne Twoim brwiom zabiegi np. regulację i koloryzację byś mogła cieszyć się dokładnie takim samym efektem "na żywo" jak na ekranie!
+Jeśli efekt "PO" przypadnie Ci do gustu, możesz umówić się do mnie na wizytę, gdy już sytuacja się unormuje. Udzielę Ci niezbędnych porad a także jako stylistka brwi wykonam wszystkie potrzebne Twoim brwiom zabiegi np. regulację i koloryzację byś mogła cieszyć się dokładnie takim samym efektem "na żywo" jak na ekranie!
+
+Hasztag projektu #LBrowDrawing
 
 Gdzie mnie znajdziesz? 
 Kliknij zakładkę KONTAKT!
