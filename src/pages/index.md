@@ -7,6 +7,7 @@ menu: 1
 +++compare
 left: /images/eyebrow/model6.jpg
 right: /images/eyebrow/model6a.jpg
+note: Modelka: zdjęcie przesłane
 +++
 
 +++compare
