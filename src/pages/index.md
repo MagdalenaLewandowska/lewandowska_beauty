@@ -11,6 +11,12 @@ note: Modelka: zdjęcie przesłane
 +++
 
 +++compare
+left: /images/eyebrow/model6.jpg
+right: /images/eyebrow/model6a.jpg
+note: Modelka: zdjęcie przesłane
++++
+
++++compare
 left: /images/eyebrow/model1.jpg
 right: /images/eyebrow/model1a.jpg
 note: Modelka: <a href="https://pl.freepik.com">Racool_studio - pl.freepik.com</a>
