@@ -5,6 +5,12 @@ menu: 1
 ---
 
 +++compare
+left: /images/eyebrow/model8.jpg
+right: /images/eyebrow/model8a.jpg
+note: Modelka: zdjęcie przesłane
++++
+
++++compare
 left: /images/eyebrow/model7.jpg
 right: /images/eyebrow/model7a.jpg
 note: Modelka: zdjęcie przesłane
