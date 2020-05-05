@@ -5,6 +5,18 @@ menu: 1
 ---
 
 +++compare
+left: /images/eyebrow/model9.jpg
+right: /images/eyebrow/model9a.jpg
+note: Original photo: <a href="https://freepik.com">Racool_studio - freepik.com</a>
++++
+
++++compare
+left: /images/eyebrow/model8.jpg
+right: /images/eyebrow/model8a.jpg
+note: Original photo: <a href="https://freepik.com">Racool_studio - freepik.com</a>
++++
+
++++compare
 left: /images/eyebrow/model7.jpg
 right: /images/eyebrow/model7a.jpg
 note: Model: photo sended
