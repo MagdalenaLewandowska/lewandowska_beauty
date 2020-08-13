@@ -7,6 +7,7 @@ menu: 1
 +++compare
 left: /images/eyebrow/z.jpg
 right: /images/eyebrow/x.jpg
+note: Henna pudrowa i laminowanie rzęs
 +++
 
 +++compare
