@@ -57,3 +57,10 @@ left: /images/eyebrow/17.jpg
 right: /images/eyebrow/18.jpg
 note: Modelka: <a href="https://pl.freepik.com">Racool_studio - pl.freepik.com</a>
 +++
+
++++compare
+left: /images/eyebrow/19.jpg
+right: /images/eyebrow/20.jpg
+note: Modelka: <a href="https://pl.freepik.com">Racool_studio - pl.freepik.com</a>
++++
+
