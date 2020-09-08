@@ -17,20 +17,20 @@ note: Modelka: <a href="https://pl.freepik.com">Racool_studio - pl.freepik.com</
 +++
 
 +++compare
-left: /images/eyebrow/model6.jpg
-right: /images/eyebrow/model6a.jpg
+left: /images/eyebrow/5.jpg
+right: /images/eyebrow/6.jpg
 note: Modelka: zdjęcie przesłane
 +++
 
 +++compare
-left: /images/eyebrow/model1.jpg
-right: /images/eyebrow/model1a.jpg
+left: /images/eyebrow/7.jpg
+right: /images/eyebrow/8.jpg
 note: Modelka: <a href="https://pl.freepik.com">Racool_studio - pl.freepik.com</a>
 +++
 
 +++compare
-left: /images/eyebrow/model2.jpg
-right: /images/eyebrow/model2a.jpg
+left: /images/eyebrow/9.jpg
+right: /images/eyebrow/10.jpg
 note: Modelka: <a href="https://pl.freepik.com">Racool_studio - pl.freepik.com</a>
 +++
 
