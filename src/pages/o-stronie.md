@@ -52,15 +52,4 @@ right: /images/eyebrow/16.jpg
 note: Autor: Lewandowska Beauty
 +++
 
-+++compare
-left: /images/eyebrow/17.jpg
-right: /images/eyebrow/18.jpg
-note: Autor: Lewandowska Beauty
-+++
-
-+++compare
-left: /images/eyebrow/5.jpg
-right: /images/eyebrow/6.jpg
-note: Autor: Lewandowska Beauty
-+++
 
