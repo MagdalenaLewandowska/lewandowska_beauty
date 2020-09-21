@@ -1,6 +1,6 @@
 ---
 layout: home
-title: o mnie
+title: o nas
 menu: 1
 ---
 
