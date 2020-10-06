@@ -4,20 +4,23 @@ title: Galeria
 menu: 0
 ---
 
-![Koteł](http://placekitten.com/g/330/330)
+<!--
+Optymalna szerokość obrazka: 708px (mniejsze zostaną rozciągnięte, większe zmniejszone w razie potrzeby).
 
-![Koteł](http://placekitten.com/g/330/330)
+Aby uzyskać kwadraty oryginalne obrazki musza być kwadratowe
+(ogólnie obrazki moga mieć dowolne ale takie same proporcje).
 
-![Koteł](http://placekitten.com/g/330/330)
+Zmień liczbę w polu menu z 0 na konkretną by pokazać galerię w menu.
 
-![Koteł](http://placekitten.com/g/330/330)
+Pamiętaj by zostawiać odstęp jednej linii pomiędzy kodem obrazków jak w przykładzie poniżej.
 
-![Koteł](http://placekitten.com/g/330/330)
+Dla lokalnych obrazków podaj względną ścieżkę, np:
+![Nazwa obrazka](/images/examples/beach1.jpg)
+ -->
 
-![Koteł](http://placekitten.com/g/330/330)
+![Nazwa obrazka](http://placekitten.com/g/330/330)
 
-![Koteł](http://placekitten.com/g/330/330)
+![Nazwa obrazka](http://placekitten.com/g/330/330)
 
-![Koteł](http://placekitten.com/g/330/330)
+![Nazwa obrazka](http://placekitten.com/g/330/330)
 
-![Koteł](http://placekitten.com/g/330/330)
