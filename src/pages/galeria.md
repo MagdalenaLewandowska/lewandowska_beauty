@@ -18,21 +18,21 @@ Dla lokalnych obrazków podaj względną ścieżkę, np:
 ![Nazwa obrazka](/images/examples/beach1.jpg)
  -->
 
-![Nazwa obrazka](http://placekitten.com/g/330/330)
+![Nazwa obrazka](http://placekitten.com/g/708/708)
+
+![Nazwa obrazka](http://placekitten.com/g/512/512)
+
+![Nazwa obrazka](http://placekitten.com/g/800/800)
+
+![Nazwa obrazka](http://placekitten.com/g/420/420)
 
 ![Nazwa obrazka](http://placekitten.com/g/330/330)
 
-![Nazwa obrazka](http://placekitten.com/g/330/330)
+![Nazwa obrazka](http://placekitten.com/g/600/600)
 
-![Nazwa obrazka](http://placekitten.com/g/330/330)
+![Nazwa obrazka](http://placekitten.com/g/900/900)
 
-![Nazwa obrazka](http://placekitten.com/g/330/330)
+![Nazwa obrazka](http://placekitten.com/g/960/960)
 
-![Nazwa obrazka](http://placekitten.com/g/330/330)
-
-![Nazwa obrazka](http://placekitten.com/g/330/330)
-
-![Nazwa obrazka](http://placekitten.com/g/330/330)
-
-![Nazwa obrazka](http://placekitten.com/g/330/330)
+![Nazwa obrazka](http://placekitten.com/g/1024/1024)
 
