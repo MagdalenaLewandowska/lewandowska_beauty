@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Galeria
-menu: 1
+menu: 5
 ---
 
 <!--
