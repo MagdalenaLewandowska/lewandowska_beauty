@@ -16,9 +16,9 @@ Pamiętaj by zostawiać odstęp jednej linii pomiędzy kodem obrazków jak w prz
 
  -->
 
-![Nazwa obrazka](/public/images/examples/A.jpg)
+![Nazwa obrazka](/public/images/examples/A.png)
 
-![Nazwa obrazka](/public/images/examples/B.jpg)
+![Nazwa obrazka](/public/images/examples/B.png)
 
 ![Nazwa obrazka](http://placekitten.com/g/512/512)
 
