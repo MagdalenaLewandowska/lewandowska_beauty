@@ -18,7 +18,7 @@ Dla lokalnych obrazków podaj względną ścieżkę, np:
 ![Nazwa obrazka](examples//public/images/examples/A.jpg)
  -->
 
-![Nazwa obrazka](lewandowska_beauty/public/images/examples/A.jpg)
+![Nazwa obrazka](/lewandowska_beauty/public/images/examples/A.jpg)
 
 ![Nazwa obrazka](http://placekitten.com/g/708/708)
 
