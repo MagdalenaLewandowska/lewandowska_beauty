@@ -18,8 +18,7 @@ Dla lokalnych obrazków podaj względną ścieżkę, np:
 ![Nazwa obrazka](examples/images/public/images/eyebrow/A.jpg)
  -->
 
-![Nazwa obrazka](examples/images/public/images/examples/eyebrow/A.jpg)
-
+![Nazwa obrazka](public/images/examples/A.jpg)
 ![Nazwa obrazka](http://placekitten.com/g/708/708)
 
 ![Nazwa obrazka](http://placekitten.com/g/512/512)
