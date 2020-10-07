@@ -14,8 +14,6 @@ Zmień liczbę w polu menu z 0 na konkretną by pokazać galerię w menu.
 
 Pamiętaj by zostawiać odstęp jednej linii pomiędzy kodem obrazków jak w przykładzie poniżej.
 
-Dla lokalnych obrazków podaj względną ścieżkę, np:
-![Nazwa obrazka](examples//public/images/examples/A.jpg)
  -->
 
 ![Nazwa obrazka](/public/images/examples/A.jpg)
