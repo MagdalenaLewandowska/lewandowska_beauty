@@ -15,10 +15,10 @@ Zmień liczbę w polu menu z 0 na konkretną by pokazać galerię w menu.
 Pamiętaj by zostawiać odstęp jednej linii pomiędzy kodem obrazków jak w przykładzie poniżej.
 
 Dla lokalnych obrazków podaj względną ścieżkę, np:
-![Nazwa obrazka](/images/public/images/eyebrow/118649122_806775360061195_8915584959003768345_n(1).jpg)
+![Nazwa obrazka](/images/public/images/eyebrow/A.jpg)
  -->
 
-![Nazwa obrazka](public/images/eyebrow/118649122_806775360061195_8915584959003768345_n(1).jpg)
+![Nazwa obrazka](public/images/examples/A.jpg)
 
 ![Nazwa obrazka](http://placekitten.com/g/708/708)
 
