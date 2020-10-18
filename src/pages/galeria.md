@@ -28,9 +28,9 @@ Pamiętaj by zostawiać odstęp jednej linii pomiędzy kodem obrazków jak w prz
 
 ![Nazwa obrazka](/images/examples/C3.jpg)
 
-![Nazwa obrazka](/images/examples/D.jpg)
+![Nazwa obrazka](/images/examples/D.gif)
 
-![Nazwa obrazka](/images/examples/E.jpg)
+![Nazwa obrazka](/images/examples/E.gif)
 
-![Nazwa obrazka](/images/examples/F.jpg)
+![Nazwa obrazka](/images/examples/F.gif)
 
