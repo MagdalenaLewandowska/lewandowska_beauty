@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Galeria
-menu: 0
+menu: 1
 ---
 
 <!--
@@ -16,7 +16,7 @@ Pamiętaj by zostawiać odstęp jednej linii pomiędzy kodem obrazków jak w prz
 
  -->
 
-![Nazwa obrazka](/public/images/examples/A.png)
+![Nazwa obrazka](images/examples/A.png)
 
 ![Nazwa obrazka](/public/images/examples/B.png)
 
