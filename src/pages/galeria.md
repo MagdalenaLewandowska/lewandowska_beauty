@@ -16,7 +16,7 @@ Pamiętaj by zostawiać odstęp jednej linii pomiędzy kodem obrazków jak w prz
 
  -->
 
-![Nazwa obrazka](images/examples/A.png)
+![Nazwa obrazka](/images/examples/A.png)
 
 ![Nazwa obrazka](/public/images/examples/B.png)
 
