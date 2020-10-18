@@ -20,17 +20,17 @@ Pamiętaj by zostawiać odstęp jednej linii pomiędzy kodem obrazków jak w prz
 
 ![Nazwa obrazka](/images/examples/B.png)
 
-![Nazwa obrazka](/images/examples/C.png)
+![Nazwa obrazka](/images/examples/C.jpg)
 
-![Nazwa obrazka](/images/examples/C1.png)
+![Nazwa obrazka](/images/examples/C1.jpg)
 
-![Nazwa obrazka](/images/examples/C2.png)
+![Nazwa obrazka](/images/examples/C2.jpg)
 
-![Nazwa obrazka](/images/examples/C3.png)
+![Nazwa obrazka](/images/examples/C3.jpg)
 
-![Nazwa obrazka](/images/examples/D.png)
+![Nazwa obrazka](/images/examples/D.jpg)
 
-![Nazwa obrazka](/images/examples/E.png)
+![Nazwa obrazka](/images/examples/E.jpg)
 
-![Nazwa obrazka](/images/examples/F.png)
+![Nazwa obrazka](/images/examples/F.jpg)
 
