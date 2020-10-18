@@ -20,9 +20,7 @@ Pamiętaj by zostawiać odstęp jednej linii pomiędzy kodem obrazków jak w prz
 
 ![Nazwa obrazka](/images/examples/B.png)
 
-![Nazwa obrazka](http://placekitten.com/g/512/512)
-
-![Nazwa obrazka](http://placekitten.com/g/800/800)
+![Nazwa obrazka](https://www.instagram.com/p/CEYsSnmhhl9/)
 
 ![Nazwa obrazka](http://placekitten.com/g/420/420)
 
