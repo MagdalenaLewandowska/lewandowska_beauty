@@ -39,10 +39,10 @@ Do wyboru trzy rodzaje makijażu:
 
 CENNIK
 
-Regulacja brwi 40 zł
-Henna brwi (farbka żelowa) 30 zł
-Henna rzęs 30 zł
-Depilacja strefy górnej wargi 25 zł
+- Regulacja brwi 40 zł
+- Henna brwi (farbka żelowa) 30 zł
+- Henna rzęs 30 zł
+- Depilacja strefy górnej wargi 25 zł
 
 Regulacja brwi + henna brwi 60 zł
 Regulacja brwi + henna rzęs 50 zł
