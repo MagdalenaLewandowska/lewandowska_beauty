@@ -37,3 +37,32 @@ Do wyboru trzy rodzaje makijażu:
 - wieczorowy, trwający ok. 60 minut, idealna cera, makijaż oczu wzmocniony kępkami rzęs, 
 - ślubny,trwający ok. 90 minut, bardzo trwały, dopracowany w każdym szczególe, użyte zaawansowane techniki makijażu.
 
+CENNIK
+
+1. Regulacja brwi 40 zł
+2. Henna brwi (farbka żelowa) 30 zł
+3. Henna rzęs 30 zł
+4. Depilacja strefy górnej wargi 25 zł
+
+5. Regulacja brwi + henna brwi 60 zł
+6. Regulacja brwi + henna rzęs 50 zł
+7. Regulacja brwi + depilacja strefy górnej wargi 55 zł
+8. Henna brwi + henna rzęs 50 zł
+9. Henna brwi + depilacja strefy górnej wargi 45 zł
+10. Henna rzęs + depilacja strefy górnej wargi 45 zł
+11. Regulacja brwi + henna brwi + henna rzęs 80 zł
+12. Regulacja brwi + henna brwi + depilacja stregy górnej wargi 75 zł
+13. Regulacja brwi + henna rzęs + depilacja strefy górnej wargi 65 zł
+14. Henna brwi + henna rzęs + depilacja strefy górnej wargi 65 zł
+15. Regulacja brwi + henna brwi + henna rzęs + depilacja strefy górnej wargi 95 zł
+
+16. Henna pudrowa 90 zł
+17. Henna pudrowa + regulacja brwi 120 zł
+18. Henna pudrowa + regulacja brwi + depilacja strefy górnej wargi 135 zł
+19. Henna pudrowa + regulacja brwi + henna rzęs 140 zł
+20. Henna pudrowa + regulacja brwi + henna rzęs + depilacja strefy górnej wargi 170 zł
+
+21. Makijaż dzienny / biznesowy 100 zł
+22. Makijaż okazjonalny 150 zł
+23. Makijaż ślubny / próbny ślubny 250 zł
+
