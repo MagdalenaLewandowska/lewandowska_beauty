@@ -51,7 +51,7 @@ Henna brwi + henna rzęs 50 zł
 Henna brwi + depilacja strefy górnej wargi 45 zł
 Henna rzęs + depilacja strefy górnej wargi 45 zł
 Regulacja brwi + henna brwi + henna rzęs 80 zł
-Regulacja brwi + henna brwi + depilacja stregy górnej wargi 75 zł
+Regulacja brwi + henna brwi + depilacja strefy górnej wargi 75 zł
 Regulacja brwi + henna rzęs + depilacja strefy górnej wargi 65 zł
 Henna brwi + henna rzęs + depilacja strefy górnej wargi 65 zł
 Regulacja brwi + henna brwi + henna rzęs + depilacja strefy górnej wargi 95 zł
