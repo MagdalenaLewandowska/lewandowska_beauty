@@ -21,6 +21,6 @@ Godziny otwarcia:
 - wt/czw	09:00–18:00
 - śr/pt	12:00–20:00
 - sobota	09:00–15:00
-- nd/pom	nieczynne
+- nd/pon	nieczynne
 
 Zapraszam!
