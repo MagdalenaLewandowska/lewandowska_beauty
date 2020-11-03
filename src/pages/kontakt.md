@@ -20,7 +20,7 @@ tel. <a href="tel:+48502114724">502 114 724</a>
 Godziny otwarcia: 
 - wt/czw	09:00–18:00
 - śr/pt	12:00–20:00
-- sobota	09:00–15:00
+- sob	09:00–15:00
 - nd/pon	nieczynne
 
 Zapraszam!
