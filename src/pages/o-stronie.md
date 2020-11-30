@@ -1,7 +1,7 @@
 ---
 layout: home
 title:CENNIK
-menu: 1
+menu: 2
 ---
 
 
