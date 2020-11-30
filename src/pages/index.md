@@ -8,7 +8,7 @@ menu: 0
 (przed każdą usługą przeprowadzamy wywiad dotyczący przeciwskazań do jej wykonania i pytamy o indywidulane oczekiwania względem zabiegu)
 
 
-## STYLIZACJA BRWI I RZĘS
+### STYLIZACJA BRWI I RZĘS
 
 Henna brwi (farbka żelowa)
 
@@ -30,7 +30,7 @@ Praktycznie bezbolesny zabieg wykonywany przy użyciu delikatnego wosku do twarz
 
 
 
-## MAKIJAŻ
+### MAKIJAŻ
 
 Do wyboru trzy rodzaje makijażu:
 - biznesowy,trwający ok. 30 minut, wyrównanie kolorytu cery, delikatne podkreślenie oczu. Makijaż idealny na formalne spotkanie lub wizytę u fotografa, idealny na formalne spotkanie, wizytę u fotografa, 
