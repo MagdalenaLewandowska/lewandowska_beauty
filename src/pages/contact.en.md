@@ -9,9 +9,9 @@ menu: 4
 Send your photos: lewandowskabeauty@gmail.com
 
 Beauty salon adress:
-Creative Hair
-Zgoda 13 Street
-00 - 012 Warsaw
+Creative Hair,
+Zgoda 13 Street,
+00 - 012 Warsaw,
 POLAND
 
 Registration for eyebrow styling in the salon:
