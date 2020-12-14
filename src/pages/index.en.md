@@ -29,6 +29,6 @@ Virtually painless treatments performed using a delicate face wax. After each pr
 ### MAKE-UP
 
 Three types of make-up to choose from:
-●	Daily / business: ~30 minutes, evening of the skin tone, subtle accentuation of the eyes. Make-up  perfect for a formal meeting or a visit to the photographer.
-●	Evening: ~60 minutes, perfect complexion, eye make-up emphasised with individual fake lashes.
-●	Wedding: ~90 minutes, very long-lasting, polished in every aspect, uses advanced make-up techniques. 
+-	Daily / business: ~30 minutes, evening of the skin tone, subtle accentuation of the eyes. Make-up  perfect for a formal meeting or a visit to the photographer.
+-	Evening: ~60 minutes, perfect complexion, eye make-up emphasised with individual fake lashes.
+-	Wedding: ~90 minutes, very long-lasting, polished in every aspect, uses advanced make-up techniques. 
