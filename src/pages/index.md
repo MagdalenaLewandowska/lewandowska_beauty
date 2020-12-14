@@ -17,7 +17,6 @@ Idealny zabieg zarówno dla kobiet jak i mężczyzn ceniących bardzo naturalny 
 Henna pudrowa
 
 Najnowsza metoda koloryzacji brwi z efektem tatuażu, utrzymująca się do 14 dni na skórze i 6 tygodni na włosach. Idealny zabieg dla osób z dużymi ubytkami w brwiach, myślących o makijażu permenentnym. Bogata gama kolorystyczna, daje możliwość dopasowania odcienia brwi idealnie do koloru włosów. Zabieg dodatkowo regeneruje brwi i przyspiesza ich wzrost.  
-
 Henna rzęs
 
 Jednoczesna koloryzacja rzęs dolnych i górnych do intensywnego odcienia czerni. Zabieg przeprowadzany na siedząco, często łączony ze stylizacją brwi. Podczas usługi klientka nie odczuwa szczypania, pieczenia i jest to dla niej czas zupełnego relaksu. 
@@ -25,9 +24,6 @@ Jednoczesna koloryzacja rzęs dolnych i górnych do intensywnego odcienia czerni
 Depilacja brwi/ stref twarzy
 
 Praktycznie bezbolesny zabieg wykonywany przy użyciu delikatnego wosku do twarzy. Po każdym zabiegu nakładany jest żel chłodzący z aloesem by jak najszybciej skóra wróciła do stanu sprzed zabiegu (zniwelowanie zaczerwienienia). Depilacja wykonywana bardzo dokładnie a stylizacja brwi poprzedzona zawsze konsultacją nowego kształtu.  
-
-
-
 
 
 ### MAKIJAŻ
