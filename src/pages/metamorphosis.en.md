@@ -1,11 +1,8 @@
 ---
 layout: default
-title: About
+title: METAMORPHOSIS ONLINE PROJECT
 menu: 3
 ---
-
-# METAMORPHOSIS ONLINE PROJECT
-
 
 The idea is simple: send me a photo of your face and see your eyebrows metamorphosed. I will show you how beautiful they could be!
 
