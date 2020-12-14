@@ -18,8 +18,8 @@ Registration for eyebrow styling in the salon:
 <a href="tel:+48502114724">+048 502 114 724</a>
 
 Opening hours: 
-- wt/czw	09:00–18:00
-- śr/pt	12:00–20:00
-- sob	09:00–15:00
-- nd/pon	close
+- tue/thu	09:00–18:00
+- wed/fri	12:00–20:00
+- sat	09:00–15:00
+- sun/mon	close
 
