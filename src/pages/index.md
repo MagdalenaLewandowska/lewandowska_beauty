@@ -29,7 +29,7 @@ Praktycznie bezbolesny zabieg wykonywany przy użyciu delikatnego wosku do twarz
 ### MAKIJAŻ
 
 Do wyboru trzy rodzaje makijażu:
-- biznesowy,trwający ok. 30 minut, wyrównanie kolorytu cery, delikatne podkreślenie oczu. Makijaż idealny na formalne spotkanie lub wizytę u fotografa, idealny na formalne spotkanie, wizytę u fotografa, 
+- biznesowy, trwający ok. 30 minut, wyrównanie kolorytu cery, delikatne podkreślenie oczu. Makijaż idealny na formalne spotkanie lub wizytę u fotografa, idealny na formalne spotkanie, wizytę u fotografa, 
 - wieczorowy, trwający ok. 60 minut, idealna cera, makijaż oczu wzmocniony kępkami rzęs, 
-- ślubny,trwający ok. 90 minut, bardzo trwały, dopracowany w każdym szczególe, użyte zaawansowane techniki makijażu.
+- ślubny, trwający ok. 90 minut, bardzo trwały, dopracowany w każdym szczególe, użyte zaawansowane techniki makijażu.
 
