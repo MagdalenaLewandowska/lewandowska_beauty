@@ -1,6 +1,6 @@
 ---
 layout: default
-title: METAMORPHOSIS ONLINE PROJECT
+title: METAMORPHOSIS ONLINE
 menu: 3
 ---
 
