@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projekt Metamorfoza ONLINE!
+title: Metamorfoza ONLINE!
 menu: 2
 ---
 
